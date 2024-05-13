@@ -1354,6 +1354,84 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 568201005}
   m_Mesh: {fileID: 7027573860829229550, guid: 43bc1e8ef7d597d448aab90e7e9f740a, type: 3}
+--- !u!1001 &574043213
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 281701f4b1bddf74b85051c198440042,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.23
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 281701f4b1bddf74b85051c198440042,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 281701f4b1bddf74b85051c198440042,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.409
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 281701f4b1bddf74b85051c198440042,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 281701f4b1bddf74b85051c198440042,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 281701f4b1bddf74b85051c198440042,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 281701f4b1bddf74b85051c198440042,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 281701f4b1bddf74b85051c198440042,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 281701f4b1bddf74b85051c198440042,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 281701f4b1bddf74b85051c198440042,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 281701f4b1bddf74b85051c198440042,
+        type: 3}
+      propertyPath: m_Name
+      value: Gladiator Room gate
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954859237364998489, guid: 281701f4b1bddf74b85051c198440042,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caafa8ed6d43f414db73799828f48dd0, type: 2}
+    - target: {fileID: 8439796992618771461, guid: 281701f4b1bddf74b85051c198440042,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 47ae0bdd9fcd4864f9f88b479c0e1a30, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 281701f4b1bddf74b85051c198440042, type: 3}
 --- !u!1 &595199067
 GameObject:
   m_ObjectHideFlags: 0
@@ -2724,6 +2802,8 @@ PrefabInstance:
     - {fileID: -5680840593237987728, guid: 43bc1e8ef7d597d448aab90e7e9f740a, type: 3}
     - {fileID: -1163436004460743561, guid: 43bc1e8ef7d597d448aab90e7e9f740a, type: 3}
     - {fileID: -1034457356713599422, guid: 43bc1e8ef7d597d448aab90e7e9f740a, type: 3}
+    - {fileID: -6998888067459783369, guid: 43bc1e8ef7d597d448aab90e7e9f740a, type: 3}
+    - {fileID: -2818631016347784500, guid: 43bc1e8ef7d597d448aab90e7e9f740a, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 43bc1e8ef7d597d448aab90e7e9f740a,
         type: 3}
@@ -3468,3 +3548,4 @@ SceneRoots:
   - {fileID: 421938658}
   - {fileID: 205883901}
   - {fileID: 135689753}
+  - {fileID: 574043213}
